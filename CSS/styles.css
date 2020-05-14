@@ -122,7 +122,7 @@ p {
   }
 }
 
-/* Why Choose */
+/* Features */
 @media (min-width:1000px) {
   .why-choose {
     position: relative;
@@ -207,3 +207,13 @@ p {
     float: right;
   }
 }
+
+/*Challenge Info*/
+.attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+
+.attribution a {
+      color: hsl(228, 45%, 44%);
+    }
